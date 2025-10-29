@@ -77,9 +77,5 @@ git clone https://github.com/SEU-USUARIO/seu-repositorio.git
 
 ---
 
-### 📌 Créditos
-
-Este projeto foi inspirado no clássico Mario Bros e criado com foco em **estudos de desenvolvimento web e jogos simples com JS**.
-Projeto aprendido com o canal Manual Dev.
 
 
